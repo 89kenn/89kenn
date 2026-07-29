@@ -1,17 +1,18 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:00BFFF,100:0047FF&text=RYONZ%20STORE&fontColor=ffffff&fontSize=50&animation=fadeIn&fontAlignY=38"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:00BFFF,100:0047FF&text=RYONZ%20STORE&fontColor=ffffff&fontSize=55&animation=fadeIn&fontAlignY=38"/>
 
-## 🐍 Contribution Snake
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=28&duration=3500&pause=1000&color=00BFFF&center=true&vCenter=true&width=900&lines=Welcome+To+My+GitHub!;Rio+Pramana;RYONZ+STORE;Bot+Developer;Always+Learning+New+Things"/>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/89kenn/89kenn/output/github-contribution-grid-snake-dark.svg">
-  <img alt="Snake animation" src="https://raw.githubusercontent.com/89kenn/89kenn/output/github-contribution-grid-snake.svg">
-</picture>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/89kenn/89kenn/output/github-contribution-grid-snake.svg" alt="Snake Animation">
+</p>
 
-<br>
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00BFFF&center=true&vCenter=true&width=850&lines=Welcome+To+My+GitHub!;Rio+Pramana;RYONZ+STORE;Bot+Developer;Node.js+Developer;Always+Learning..." />
+<p>
+<img src="https://komarev.com/ghpvc/?username=89kenn&label=Profile%20Views&color=0e75b6&style=for-the-badge"/>
+<img src="https://img.shields.io/github/followers/89kenn?style=for-the-badge&logo=github"/>
+<img src="https://img.shields.io/github/stars/89kenn?style=for-the-badge&logo=github"/>
+</p>
 
 </div>
 
@@ -19,94 +20,187 @@
 
 # 👋 About Me
 
-```js
-const rio = {
-  name: "Rio Pramana",
-  username: "89kenn",
-  nickname: "RYONZ",
-  role: "Bot Developer",
-  language: ["JavaScript","HTML","CSS","Node.js"],
-  learning: ["AI","Cyber Security","Docker"],
-  location: "Indonesia"
-}
-```
+Hi, I'm **Rio Pramana** 🇮🇩
+
+💙 Founder of **RYONZ STORE**
+
+💻 Passionate about:
+- WhatsApp Bot Development
+- Telegram Bot Development
+- Web Development
+- Automation
+- UI Design
+
+🎯 Currently Learning:
+- JavaScript
+- Node.js
+- Docker
+- Linux
+- AI
 
 ---
 
-# 📊 GitHub Stats
+## 🚀 Current Goals
 
-<p align="center">
+- Build premium WhatsApp Bots
+- Learn Full Stack Development
+- Create useful Open Source projects
+- Improve programming skills every day
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=89kenn&show_icons=true&theme=tokyonight&hide_border=true"/>
+---
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=89kenn&layout=compact&theme=tokyonight&hide_border=true"/>
+## 🛠 Favorite Tools
 
-</p>
+- Visual Studio Code
+- GitHub
+- Termux
+- Docker
+- Node.js
+- Linux
 
-<p align="center">
+---
+# 📊 GitHub Statistics
 
-<img src="https://streak-stats.demolab.com?user=89kenn&theme=tokyonight&hide_border=true"/>
+<div align="center">
 
-</p>
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=89kenn&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=89kenn&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+<div align="center">
+
+<img width="70%" src="https://streak-stats.demolab.com?user=89kenn&theme=tokyonight&hide_border=true"/>
+
+</div>
 
 ---
 
 # 💻 Tech Stack
 
-<p align="center">
+<div align="center">
 
-<img src="https://skillicons.dev/icons?i=html,css,js,nodejs,git,github,docker,linux,vscode,python"/>
+<img src="https://skillicons.dev/icons?i=html,css,js,nodejs,python,git,github,docker,linux,vscode,mongodb,mysql"/>
 
-</p>
+</div>
 
 ---
 
-# 📈 Activity Graph
+# 📈 GitHub Activity Graph
 
-<p align="center">
+<div align="center">
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=89kenn&theme=tokyo-night&hide_border=true"/>
 
-</p>
+</div>
 
 ---
 
 # 🏆 GitHub Trophy
 
-<p align="center">
+<div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=89kenn&theme=tokyonight&no-frame=true&row=1&column=6"/>
+<img src="https://github-profile-trophy.vercel.app/?username=89kenn&theme=tokyonight&no-frame=true&row=2&column=3"/>
 
-</p>
+</div>
+
+---
+
+# ⚡ Coding Activity
+
+```text
+JavaScript   ████████████████████ 90%
+Node.js      ██████████████████   85%
+HTML         ████████████████     80%
+CSS          ██████████████       75%
+Docker       ███████████          60%
+Linux        ████████████         70%
+```
+
+---
+
+# 🎯 2026 Goals
+
+- 🚀 Release Premium WhatsApp Bot
+- 🌐 Build Modern Websites
+- 🤖 Learn Artificial Intelligence
+- 🛡 Learn Cyber Security
+- ⭐ Reach 100+ GitHub Repositories
+- 💙 Grow RYONZ STORE
+---
+
+# 🚀 Featured Projects
+
+<div align="center">
+
+| Project | Description | Status |
+|---------|-------------|--------|
+| 🤖 WhatsApp Bot | Multi Feature WhatsApp Bot | 🚧 Development |
+| 🌐 Portfolio Website | Personal Portfolio | ✅ Online |
+| 🛒 RYONZ STORE | Digital Store Platform | 🚀 Active |
+| ⚡ Automation Tools | Useful Automation Scripts | 🔥 Active |
+
+</div>
 
 ---
 
 # 🌐 Connect With Me
 
-<p align="center">
+<div align="center">
 
 <a href="https://github.com/89kenn">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
-</p>
+</div>
+
+---
+
+# 📌 Quote
+
+<div align="center">
+
+> **"Keep Learning, Keep Building, Never Give Up."** 🚀
+
+</div>
+
+---
+
+# 📊 Profile Summary
+
+<div align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=89kenn&theme=tokyonight"/>
+
+</div>
+
+---
+
+# 📅 Contribution Calendar
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=89kenn&theme=tokyo-night"/>
+
+</div>
 
 ---
 
 # 👀 Visitors
 
-<p align="center">
+<div align="center">
 
 <img src="https://komarev.com/ghpvc/?username=89kenn&style=for-the-badge&color=blue"/>
 
-</p>
+</div>
 
 ---
 
 <div align="center">
 
-### ⭐ Thanks For Visiting ⭐
+## ⭐ Thanks For Visiting My Profile ⭐
 
-<img src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=140&color=0:0047FF,100:00BFFF"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=180&section=footer&color=0:0047FF,100:00BFFF"/>
 
 </div>
