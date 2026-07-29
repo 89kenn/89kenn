@@ -1,12 +1,12 @@
 <div align="center">
 
-# 🌌 NOVAMIND
+<img src="./assets/novamind.gif" width="900"/>
 
-### Future Technology Ecosystem
+<br><br>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=30&pause=1000&color=00BFFF&center=true&vCenter=true&width=900&lines=Welcome+To+NovaMind;AI+%7C+Cloud+%7C+Automation;Building+Digital+Innovation;Created+By+Rio+Pramana"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=32&pause=1000&color=00BFFF&center=true&vCenter=true&width=900&lines=Welcome+To+NovaMind;AI+%7C+Cloud+%7C+Automation;Building+Future+Technology;Created+By+Rio+Pramana"/>
 
-<br>
+<br><br>
 
 <img src="https://komarev.com/ghpvc/?username=89kenn&label=Profile%20Views&color=00BFFF&style=for-the-badge"/>
 
@@ -14,34 +14,41 @@
 
 ---
 
+# 🌌 NovaMind
+
+### Future Technology Ecosystem
+
+NovaMind is a technology ecosystem created by **Rio Pramana**.
+
+Focused on building modern digital solutions through:
+
+- 🤖 Artificial Intelligence
+- ⚡ Automation Systems
+- ☁️ Cloud Infrastructure
+- 🌐 Web Development
+- 🔒 Cyber Security Exploration
+- 🧩 Open Source Technology
+
+> "Creating the future through innovation, creativity, and code."
+
+---
+
 # 👨‍💻 Rio Pramana
 
 ### Founder • Developer • Creator of NovaMind
 
-Welcome to my GitHub profile.
+Hello, I'm **Rio Pramana**.
 
-I am **Rio Pramana**, a developer focused on building modern technology solutions through programming, automation, and innovation.
+A developer who enjoys creating technology projects and exploring the future of digital innovation.
 
-My mission is to create useful digital products and explore the future of technology.
+My interests:
 
-> "Turning ideas into code, and code into innovation."
-
----
-
-# 🌌 About NovaMind
-
-**NovaMind** is a technology ecosystem created by **Rio Pramana**.
-
-NovaMind focuses on developing digital solutions in:
-
-- 🤖 Artificial Intelligence
-- ⚡ Automation Technology
-- ☁️ Cloud Infrastructure
-- 🌐 Web Development
-- 🔒 Cyber Security Exploration
-- 🧩 Open Source Projects
-
-NovaMind is built to explore, create, and develop the next generation of technology.
+- JavaScript Development
+- Bot Development
+- AI Technology
+- Cloud & Server Infrastructure
+- Automation Systems
+- Software Engineering
 
 ---
 
@@ -51,75 +58,69 @@ NovaMind is built to explore, create, and develop the next generation of technol
 
 ### Artificial Intelligence Division
 
-NovaMind AI focuses on creating intelligent systems and automation solutions.
+NovaMind AI focuses on creating intelligent technology solutions.
 
 **Focus:**
 
-- AI Assistant Development
+- AI Assistant
 - AI Tools
-- Machine Learning Exploration
 - Smart Automation
 - AI Integration
+- Machine Learning Exploration
 
+Status: 🤖 Research & Development
 ---
 
 ## ☁️ Nova Deploy
 
 ### Cloud & Infrastructure Division
 
-Nova Deploy focuses on modern infrastructure and deployment technology.
+Nova Deploy focuses on reliable technology infrastructure.
 
 **Focus:**
 
-- Cloud Services
-- Server Management
+- Cloud Server
 - Application Deployment
 - Docker Environment
+- Server Management
 - DevOps Technology
 
+Status: ☁️ Infrastructure Building
 ---
 
 ## 📱 NovaNokos
 
 ### Digital Service Division
 
-NovaNokos provides digital technology solutions and automated services.
+NovaNokos provides digital technology services.
 
 **Focus:**
 
-- Digital Services
-- Automation Systems
-- Online Platforms
-- Technology Solutions
+- Digital Products
+- Automation Services
+- Online Solutions
+- Technology Platform
 
+Status: 📱 Active Development
 ---
 
-# 🛠️ Tech Stack
+# 🛒 Featured Project
 
-<div align="center">
+## RYONZ STORE
 
-<img src="https://skillicons.dev/icons?i=js,nodejs,html,css,docker,linux,git,github,vscode,python"/>
-
-</div>
-
----
-
-# 📂 Featured Projects
-
-## 🛒 RYONZ STORE
-
-Digital marketplace project developed by **Rio Pramana**.
+Digital marketplace ecosystem developed by **Rio Pramana**.
 
 Features:
 
-- 🎮 Digital Products
+- 🎮 Game Top Up
+- 💳 Digital Products
 - ⚡ Automated Services
-- 💳 Digital Transactions
-- 🌐 Online Store System
+- 🌐 Digital Store Platform
 
+Status: 🟢 Running
 ---
 
-## 🤖 NovaMind Bot
+# 🤖 NovaMind Bot
 
 Automation ecosystem for digital interaction.
 
@@ -128,69 +129,30 @@ Features:
 - WhatsApp Bot
 - Telegram Bot
 - AI Integration
-- Utility Automation
+- Utility Tools
+- Automation System
 
+Status: 🟡 Improving Features
 ---
 
-## ☁️ Nova Deploy System
+# 🛠️ Technology Stack
 
-Infrastructure projects focused on:
+<div align="center">
 
-- Server Setup
-- Container Deployment
-- Cloud Management
+<img src="https://skillicons.dev/icons?i=js,nodejs,html,css,python,docker,linux,git,github,vscode"/>
+
+</div>
 
 ---
 
 # ⚡ Development Status
 
-🌌 NovaMind Core     : Active 🤖 NovaMind AI       : Developing ☁️ Nova Deploy       : Developing 📱 NovaNokos         : Active
-
----
-
-# 📊 GitHub Analytics
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=89kenn&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<br>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=89kenn&theme=tokyonight&hide_border=true"/>
-
-</div>
-
----
-
-# 🐍 Contribution Animation
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/89kenn/89kenn/output/github-contribution-grid-snake.svg"/>
-
-</div>
-
----
-
-# 🌐 Connect With Me
-
-<div align="center">
-
-GitHub • @89kenn
-
-</div>
-
----
-
-<div align="center">
-
-## 🌌 Vision
-
-**Building the future through creativity, technology, and innovation.**
-
-<br>
-
-⭐ Created by **Rio Pramana**  
-⚡ Powered by **NovaMind**
-
-</div>
+```txt
+🌌 NovaMind Core       : 🟢 Active
+🤖 NovaMind AI         : 🟡 Research & Development
+☁️ Nova Deploy         : 🟡 Infrastructure Building
+📱 NovaNokos           : 🟢 Active Development
+🛒 RYONZ STORE         : 🟢 Running
+🤖 NovaMind Bot        : 🟡 Feature Improvement
+🌐 NovaMind Platform   : 🔵 Planned
+🔒 Nova Security       : 🔵 Future Development
