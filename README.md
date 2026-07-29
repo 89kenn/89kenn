@@ -1,36 +1,39 @@
-## 🐍 Contribution Snake
-
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/89kenn/89kenn/output/github-contribution-grid-snake-dark.svg">
-    <img alt="Snake animation" src="https://raw.githubusercontent.com/89kenn/89kenn/output/github-contribution-grid-snake.svg">
-  </picture>
-</p>
-
 <div align="center">
 
-# 👋 Halo, Saya Rio Pramana
+<img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:00BFFF,100:0047FF&text=RYONZ%20STORE&fontColor=ffffff&fontSize=50&animation=fadeIn&fontAlignY=38"/>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00BFFF&center=true&vCenter=true&width=850&lines=Welcome+to+My+GitHub!;Rio+Pramana;RYONZ+STORE;Bot+Developer;Web+Developer;Always+Learning+New+Things..." />
+## 🐍 Contribution Snake
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0ea5e9,100:1e3a8a&height=220&section=header&text=RYONZ%20STORE&fontSize=50&fontColor=ffffff&animation=fadeIn"/>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/89kenn/89kenn/output/github-contribution-grid-snake-dark.svg">
+  <img alt="Snake animation" src="https://raw.githubusercontent.com/89kenn/89kenn/output/github-contribution-grid-snake.svg">
+</picture>
+
+<br>
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00BFFF&center=true&vCenter=true&width=850&lines=Welcome+To+My+GitHub!;Rio+Pramana;RYONZ+STORE;Bot+Developer;Node.js+Developer;Always+Learning..." />
 
 </div>
 
 ---
 
-# 🚀 About Me
+# 👋 About Me
 
-- 🎓 Student
-- 💻 Bot Developer
-- 🌐 Web Developer
-- 📱 Android Programmer
-- 🤖 Node.js & JavaScript
-- 🌱 Currently Learning AI & Cyber Security
+```js
+const rio = {
+  name: "Rio Pramana",
+  username: "89kenn",
+  nickname: "RYONZ",
+  role: "Bot Developer",
+  language: ["JavaScript","HTML","CSS","Node.js"],
+  learning: ["AI","Cyber Security","Docker"],
+  location: "Indonesia"
+}
+```
 
 ---
 
-# 📊 GitHub Statistics
+# 📊 GitHub Stats
 
 <p align="center">
 
@@ -48,23 +51,11 @@
 
 ---
 
-# 🛠 Tech Stack
+# 💻 Tech Stack
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=html,css,javascript,nodejs,git,github,docker,linux,python,vscode"/>
-
-</p>
-
----
-
-# 🌐 Connect With Me
-
-<p align="center">
-
-<a href="https://github.com/89kenn">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
-</a>
+<img src="https://skillicons.dev/icons?i=html,css,js,nodejs,git,github,docker,linux,vscode,python"/>
 
 </p>
 
@@ -90,7 +81,19 @@
 
 ---
 
-# 👀 Visitor Count
+# 🌐 Connect With Me
+
+<p align="center">
+
+<a href="https://github.com/89kenn">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
+</a>
+
+</p>
+
+---
+
+# 👀 Visitors
 
 <p align="center">
 
@@ -102,8 +105,8 @@
 
 <div align="center">
 
-### ⭐ Thanks for Visiting My Profile ⭐
+### ⭐ Thanks For Visiting ⭐
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e3a8a,100:0ea5e9&height=120&section=footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=140&color=0:0047FF,100:00BFFF"/>
 
 </div>
