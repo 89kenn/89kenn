@@ -1,145 +1,172 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:00BFFF,100:0047FF&text=RYONZ%20STORE&fontColor=ffffff&fontSize=55&animation=fadeIn&fontAlignY=38"/>
+# 🌌 NOVAMIND
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=28&duration=3500&pause=1000&color=00BFFF&center=true&vCenter=true&width=900&lines=Welcome+To+My+GitHub!;Rio+Pramana;RYONZ+STORE;Bot+Developer;Always+Learning+New+Things"/>
+### Future Technology Ecosystem
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/89kenn/89kenn/output/github-contribution-grid-snake.svg" alt="Snake Animation">
-</p>
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=30&pause=1000&color=00BFFF&center=true&vCenter=true&width=900&lines=Welcome+To+NovaMind;AI+%7C+Cloud+%7C+Automation;Building+Digital+Innovation;Created+By+Rio+Pramana"/>
 
-<p>
-<img src="https://komarev.com/ghpvc/?username=89kenn&label=Profile%20Views&color=0e75b6&style=for-the-badge"/>
-<img src="https://img.shields.io/github/followers/89kenn?style=for-the-badge&logo=github"/>
-<img src="https://img.shields.io/github/stars/89kenn?style=for-the-badge&logo=github"/>
-</p>
+<br>
+
+<img src="https://komarev.com/ghpvc/?username=89kenn&label=Profile%20Views&color=00BFFF&style=for-the-badge"/>
 
 </div>
 
 ---
 
-# 👋 About Me
+# 👨‍💻 Rio Pramana
 
-Hi, I'm **Rio Pramana** 🇮🇩
+### Founder • Developer • Creator of NovaMind
 
-💙 Founder of **RYONZ STORE**
+Welcome to my GitHub profile.
 
-💻 Passionate about:
-- WhatsApp Bot Development
-- Telegram Bot Development
-- Web Development
-- Automation
-- UI Design
+I am **Rio Pramana**, a developer focused on building modern technology solutions through programming, automation, and innovation.
 
-🎯 Currently Learning:
-- JavaScript
-- Node.js
-- Docker
-- Linux
-- AI
+My mission is to create useful digital products and explore the future of technology.
+
+> "Turning ideas into code, and code into innovation."
 
 ---
 
-## 🚀 Current Goals
+# 🌌 About NovaMind
 
-- Build premium WhatsApp Bots
-- Learn Full Stack Development
-- Create useful Open Source projects
-- Improve programming skills every day
+**NovaMind** is a technology ecosystem created by **Rio Pramana**.
+
+NovaMind focuses on developing digital solutions in:
+
+- 🤖 Artificial Intelligence
+- ⚡ Automation Technology
+- ☁️ Cloud Infrastructure
+- 🌐 Web Development
+- 🔒 Cyber Security Exploration
+- 🧩 Open Source Projects
+
+NovaMind is built to explore, create, and develop the next generation of technology.
+
+---
+
+# 🚀 NovaMind Ecosystem
+
+## 🤖 NovaMind AI
+
+### Artificial Intelligence Division
+
+NovaMind AI focuses on creating intelligent systems and automation solutions.
+
+**Focus:**
+
+- AI Assistant Development
+- AI Tools
+- Machine Learning Exploration
+- Smart Automation
+- AI Integration
 
 ---
 
-## 🛠 Favorite Tools
+## ☁️ Nova Deploy
 
-- Visual Studio Code
-- GitHub
-- Termux
-- Docker
-- Node.js
-- Linux
+### Cloud & Infrastructure Division
+
+Nova Deploy focuses on modern infrastructure and deployment technology.
+
+**Focus:**
+
+- Cloud Services
+- Server Management
+- Application Deployment
+- Docker Environment
+- DevOps Technology
 
 ---
-# 📊 GitHub Statistics
+
+## 📱 NovaNokos
+
+### Digital Service Division
+
+NovaNokos provides digital technology solutions and automated services.
+
+**Focus:**
+
+- Digital Services
+- Automation Systems
+- Online Platforms
+- Technology Solutions
+
+---
+
+# 🛠️ Tech Stack
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=89kenn&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=89kenn&layout=compact&theme=tokyonight&hide_border=true"/>
+<img src="https://skillicons.dev/icons?i=js,nodejs,html,css,docker,linux,git,github,vscode,python"/>
 
 </div>
 
+---
+
+# 📂 Featured Projects
+
+## 🛒 RYONZ STORE
+
+Digital marketplace project developed by **Rio Pramana**.
+
+Features:
+
+- 🎮 Digital Products
+- ⚡ Automated Services
+- 💳 Digital Transactions
+- 🌐 Online Store System
+
+---
+
+## 🤖 NovaMind Bot
+
+Automation ecosystem for digital interaction.
+
+Features:
+
+- WhatsApp Bot
+- Telegram Bot
+- AI Integration
+- Utility Automation
+
+---
+
+## ☁️ Nova Deploy System
+
+Infrastructure projects focused on:
+
+- Server Setup
+- Container Deployment
+- Cloud Management
+
+---
+
+# ⚡ Development Status
+
+🌌 NovaMind Core     : Active 🤖 NovaMind AI       : Developing ☁️ Nova Deploy       : Developing 📱 NovaNokos         : Active
+
+---
+
+# 📊 GitHub Analytics
+
 <div align="center">
 
-<img width="70%" src="https://streak-stats.demolab.com?user=89kenn&theme=tokyonight&hide_border=true"/>
+<img src="https://github-readme-stats.vercel.app/api?username=89kenn&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<br>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=89kenn&theme=tokyonight&hide_border=true"/>
 
 </div>
 
 ---
 
-# 💻 Tech Stack
+# 🐍 Contribution Animation
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=html,css,js,nodejs,python,git,github,docker,linux,vscode,mongodb,mysql"/>
-
-</div>
-
----
-
-# 📈 GitHub Activity Graph
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=89kenn&theme=tokyo-night&hide_border=true"/>
-
-</div>
-
----
-
-# 🏆 GitHub Trophy
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=89kenn&theme=tokyonight&no-frame=true&row=2&column=3"/>
-
-</div>
-
----
-
-# ⚡ Coding Activity
-
-```text
-JavaScript   ████████████████████ 90%
-Node.js      ██████████████████   85%
-HTML         ████████████████     80%
-CSS          ██████████████       75%
-Docker       ███████████          60%
-Linux        ████████████         70%
-```
-
----
-
-# 🎯 2026 Goals
-
-- 🚀 Release Premium WhatsApp Bot
-- 🌐 Build Modern Websites
-- 🤖 Learn Artificial Intelligence
-- 🛡 Learn Cyber Security
-- ⭐ Reach 100+ GitHub Repositories
-- 💙 Grow RYONZ STORE
----
-
-# 🚀 Featured Projects
-
-<div align="center">
-
-| Project | Description | Status |
-|---------|-------------|--------|
-| 🤖 WhatsApp Bot | Multi Feature WhatsApp Bot | 🚧 Development |
-| 🌐 Portfolio Website | Personal Portfolio | ✅ Online |
-| 🛒 RYONZ STORE | Digital Store Platform | 🚀 Active |
-| ⚡ Automation Tools | Useful Automation Scripts | 🔥 Active |
+<img src="https://raw.githubusercontent.com/89kenn/89kenn/output/github-contribution-grid-snake.svg"/>
 
 </div>
 
@@ -149,49 +176,7 @@ Linux        ████████████         70%
 
 <div align="center">
 
-<a href="https://github.com/89kenn">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-</div>
-
----
-
-# 📌 Quote
-
-<div align="center">
-
-> **"Keep Learning, Keep Building, Never Give Up."** 🚀
-
-</div>
-
----
-
-# 📊 Profile Summary
-
-<div align="center">
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=89kenn&theme=tokyonight"/>
-
-</div>
-
----
-
-# 📅 Contribution Calendar
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=89kenn&theme=tokyo-night"/>
-
-</div>
-
----
-
-# 👀 Visitors
-
-<div align="center">
-
-<img src="https://komarev.com/ghpvc/?username=89kenn&style=for-the-badge&color=blue"/>
+GitHub • @89kenn
 
 </div>
 
@@ -199,8 +184,13 @@ Linux        ████████████         70%
 
 <div align="center">
 
-## ⭐ Thanks For Visiting My Profile ⭐
+## 🌌 Vision
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=180&section=footer&color=0:0047FF,100:00BFFF"/>
+**Building the future through creativity, technology, and innovation.**
+
+<br>
+
+⭐ Created by **Rio Pramana**  
+⚡ Powered by **NovaMind**
 
 </div>
