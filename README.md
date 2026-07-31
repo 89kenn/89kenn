@@ -1,51 +1,105 @@
 <div align="center">
 
-# 👋 Hi, I'm **Ryo**
+# ⚡ RYO
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=30&pause=1200&color=00F7FF&center=true&vCenter=true&width=900&lines=Full+Stack+Developer;Telegram+Bot+Developer;Cyber+Security+Enthusiast;Open+Source+Contributor;Welcome+To+My+GitHub+Profile!"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:00F260,100:0575E6&text=RYO&fontSize=70&fontColor=ffffff&animation=twinkling&fontAlignY=40"/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=260&color=gradient&text=RYO&fontSize=60&fontAlignY=40&animation=fadeIn"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=28&duration=2500&pause=1000&color=00FF99&center=true&vCenter=true&width=900&lines=SYSTEM+BOOTING...;ACCESS+GRANTED;WELCOME+BACK+RYO;FULL+STACK+DEVELOPER;NODE.JS+DEVELOPER;CYBER+SECURITY+ENTHUSIAST;OPEN+SOURCE+LOVER"/>
 
-<img src="https://komarev.com/ghpvc/?username=89kenr&label=Profile%20Views&color=0e75b6&style=for-the-badge"/>
+![](https://komarev.com/ghpvc/?username=89kenn&style=for-the-badge&color=00ff99)
 
 </div>
 
 ---
 
-# 🚀 About Me
+# 💻 SYSTEM INFO
+
+```bash
+┌───────────────────────────────────────────────┐
+│               RYO TERMINAL                    │
+├───────────────────────────────────────────────┤
+│ USERNAME : 89kenn                            │
+│ NAME     : Ryo                               │
+│ STATUS   : ONLINE 🟢                         │
+│ ROLE     : Full Stack Developer              │
+│ LOCATION : Indonesia 🇮🇩                     │
+│ EDITOR   : VS Code                           │
+│ SYSTEM   : Linux                             │
+│ SHELL    : bash                              │
+└───────────────────────────────────────────────┘
+```
+
+---
+
+# ⚙ INITIALIZING MODULES
+
+```text
+Loading JavaScript... ████████████████ 100%
+
+Loading Node.js...... ████████████████ 100%
+
+Loading MongoDB...... ██████████████░░ 90%
+
+Loading Python....... ████████████░░░░ 80%
+
+Loading Docker....... ██████████░░░░░░ 70%
+
+Loading Git.......... ████████████████ 100%
+
+System Status........ ONLINE ✅
+```
+
+---
+
+# 🧠 ABOUT ME
 
 ```javascript
-const ryo = {
-    name: "Ryo",
-    location: "Indonesia 🇮🇩",
-    role: "Full Stack Developer",
-    code: [
-        "JavaScript",
-        "Python",
-        "HTML",
-        "CSS"
-    ],
-    backend: [
-        "Node.js",
-        "Express"
-    ],
-    database: [
-        "MongoDB",
-        "MySQL"
-    ],
-    editor: "VS Code",
-    os: "Linux",
-    hobby: [
-        "Coding",
-        "Cyber Security",
-        "Open Source"
-    ]
+class Ryo {
+
+    constructor(){
+
+        this.username = "89kenn";
+
+        this.role = "Full Stack Developer";
+
+        this.languages = [
+            "JavaScript",
+            "Python",
+            "HTML",
+            "CSS"
+        ];
+
+        this.backend = [
+            "Node.js",
+            "Express"
+        ];
+
+        this.database = [
+            "MongoDB",
+            "MySQL"
+        ];
+
+        this.tools = [
+            "Git",
+            "Docker",
+            "Linux",
+            "VS Code"
+        ];
+
+    }
+
+    motto(){
+
+        return "Code • Learn • Build • Repeat";
+
+    }
+
 }
 ```
 
 ---
 
-# 💻 Tech Stack
+# 🚀 TECH STACK
 
 <div align="center">
 
@@ -55,282 +109,260 @@ const ryo = {
 
 ---
 
-# ⚡ Tools
-
-<p align="center">
-
-<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white">
-
-<img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white">
-
-<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black">
-
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
-
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github">
-
-<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker">
-
-</p>
-
----
-
-# 📊 GitHub Stats
+# 📊 GITHUB STATS
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=89kenr&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=89kenn&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=89kenr&theme=tokyonight&hide_border=true"/>
+<img height="170" src="https://streak-stats.demolab.com?user=89kenn&theme=tokyonight&hide_border=true"/>
 
 </div>
 
 ---
 
-# 📈 Top Languages
+# 🏆 GITHUB ACHIEVEMENTS
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=89kenr&layout=compact&theme=tokyonight&hide_border=true"/>
+<img src="https://github-profile-trophy.vercel.app/?username=89kenn&theme=tokyonight&no-frame=true&row=2&column=4"/>
 
 </div>
 
 ---
 
-# 📈 Contribution Graph
+# 📈 CONTRIBUTION GRAPH
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=89kenr&theme=tokyo-night&hide_border=true"/>
-
-</div>
-
----
-# 🏆 GitHub Trophy
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=89kenr&theme=tokyonight&column=4&margin-w=15&margin-h=15&no-frame=true"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=89kenn&theme=tokyo-night&hide_border=true"/>
 
 </div>
 
 ---
 
-# 🐍 Contribution Snake
+# 🌐 TOP LANGUAGES
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/89kenr/89kenr/output/github-contribution-grid-snake-dark.svg"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=89kenn&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </div>
 
 ---
 
-# ⚡ Current Status
+# 🐍 CONTRIBUTION SNAKE
 
 <div align="center">
+
+<picture>
+<source media="(prefers-color-scheme: dark)"
+srcset="https://raw.githubusercontent.com/89kenn/89kenn/output/github-contribution-grid-snake-dark.svg">
+
+<source media="(prefers-color-scheme: light)"
+srcset="https://raw.githubusercontent.com/89kenn/89kenn/output/github-contribution-grid-snake.svg">
+
+<img alt="Snake Animation"
+src="https://raw.githubusercontent.com/89kenn/89kenn/output/github-contribution-grid-snake-dark.svg">
+
+</picture>
+
+</div>
+
+---
+
+# 📡 SYSTEM MONITOR
 
 ```text
-███████████████████████████ 100%
-
-🟢 Coding
-🟢 Learning
-🟢 Building Projects
-🟢 Open Source
-🟢 Coffee
+╔════════════════════════════════════════════════════╗
+║ CPU Usage        ██████████████░░░░░  72%          ║
+║ Memory           █████████████████░░  84%          ║
+║ Network          ██████████████████░  92%          ║
+║ Coding Mode      ███████████████████ 100%          ║
+║ Coffee Level     ███████████████████ 100% ☕       ║
+╚════════════════════════════════════════════════════╝
 ```
 
-</div>
+---
+
+# ⚡ ACTIVE SERVICES
+
+```text
+[✓] JavaScript
+
+[✓] Node.js
+
+[✓] Express
+
+[✓] MongoDB
+
+[✓] MySQL
+
+[✓] Docker
+
+[✓] Linux
+
+[✓] GitHub
+
+[✓] Cyber Security
+
+[✓] Telegram Bot
+```
 
 ---
 
-# 🌌 Favorite Quote
+# 💻 LIVE TERMINAL
 
-<div align="center">
+```bash
+root@github:~$ whoami
 
-> **"Talk is cheap. Show me the code."**  
-> — Linus Torvalds
+Ryo
 
-</div>
+root@github:~$ hostname
+
+github.com
+
+root@github:~$ uptime
+
+Coding for 24/7 🚀
+
+root@github:~$ skills
+
+✔ JavaScript
+✔ Node.js
+✔ Python
+✔ MongoDB
+✔ Linux
+
+root@github:~$
+```
 
 ---
 
-# 💎 Achievement
+# 🎯 CURRENT MISSION
 
-<div align="center">
+```yaml
+Mission:
+  - Build Awesome Projects
+  - Learn New Technologies
+  - Improve Security Skills
+  - Contribute Open Source
+  - Help Other Developers
+```
 
-🥇 Full Stack Developer
+---
 
-🛡️ Cyber Security Enthusiast
+# 🛰️ NETWORK STATUS
+
+```text
+╔════════════════════════════════════════════════════╗
+║ CONNECTION      : SECURE                          ║
+║ FIREWALL        : ACTIVE                          ║
+║ ENCRYPTION      : AES-256                         ║
+║ SYSTEM HEALTH   : 100%                            ║
+║ LATENCY         : 12ms                            ║
+║ UPTIME          : 99.99%                          ║
+╚════════════════════════════════════════════════════╝
+```
+
+---
+
+# 🧩 DEVELOPMENT ROADMAP
+
+```text
+[████████████████████] JavaScript
+
+[██████████████████░░] Node.js
+
+[████████████████░░░░] Express
+
+[█████████████████░░░] MongoDB
+
+[███████████████░░░░░] Python
+
+[████████████████░░░░] Linux
+
+[███████████████████░] Git & GitHub
+
+[████████████████████] Never Stop Learning 🚀
+```
+
+---
+
+# ⚔️ ACHIEVEMENT UNLOCKED
+
+🏆 Full Stack Developer
+
+🛡 Cyber Security Enthusiast
 
 🤖 Telegram Bot Developer
 
-🌐 Open Source Contributor
+🌍 Open Source Supporter
 
-🚀 Always Learning
+⚡ Linux User
+
+☕ Coffee Powered Developer
+
+---
+
+# 💬 DEV QUOTE
+
+<div align="center">
+
+> **"Programs must be written for people to read, and only incidentally for machines to execute."**
+
+**— Harold Abelson**
 
 </div>
 
 ---
 
-# 🎯 Goals 2026
-
-- 🚀 Build Amazing Projects
-- 🌎 Contribute to Open Source
-- 📚 Learn New Technologies
-- 🤝 Collaborate With Developers
-- ⭐ Reach More GitHub Stars
-
----
-
-# 🌐 Connect With Me
+# 🌐 CONNECT
 
 <div align="center">
 
-<a href="https://github.com/89kenr">
+<a href="https://github.com/89kenn">
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
 </a>
 
 <a href="https://t.me/USERNAME_TELEGRAM">
-<img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram"/>
+<img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white"/>
 </a>
 
 <a href="mailto:YOUR_EMAIL@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail"/>
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
 </div>
 
 ---
 
-# ❤️ Thanks For Visiting
-
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&height=150&section=footer&color=gradient"/>
-
-⭐ Don't forget to follow and star my repositories ⭐
-
-</div>
----
-
-# ⚙️ Development Environment
-
-<div align="center">
-
-| 💻 Editor | 🖥️ OS | 🌐 Browser | ⚡ Runtime |
-|:---------:|:-----:|:----------:|:----------:|
-| VS Code | Linux | Chrome | Node.js |
-
-</div>
-
----
-
-# 🛠 Skills Progress
+# 💚 VISITOR LOG
 
 ```text
-JavaScript      ████████████████████ 100%
+> Access Granted...
 
-Node.js         ██████████████████░░ 90%
+> Loading GitHub Profile...
 
-Python          ███████████████░░░░░ 75%
+> Welcome Visitor 👋
 
-MongoDB         █████████████████░░░ 85%
+> Stay Curious.
 
-MySQL           ████████████████░░░░ 80%
+> Keep Coding.
 
-HTML/CSS        ███████████████████░ 95%
+> See You Again...
 ```
 
 ---
 
-# 📅 GitHub Calendar
-
 <div align="center">
 
-<img src="https://ghchart.rshah.org/89kenr" alt="GitHub Contribution Calendar"/>
+## █████ SYSTEM ONLINE █████
 
-</div>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=170&section=footer&color=0:00F260,100:0575E6"/>
 
----
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&pause=1000&color=00FF99&center=true&vCenter=true&width=700&lines=Thanks+For+Visiting+My+Profile!;Happy+Coding!;See+You+Next+Time!"/>
 
-# 💻 Random Dev Quote
-
-<div align="center">
-
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
-
-</div>
-
----
-
-# 🎵 Coding Music
-
-<div align="center">
-
-> 🎧 Lo-fi Hip Hop  
-> 🎧 Synthwave  
-> 🎧 EDM  
-> 🎧 Phonk
-
-</div>
-
----
-
-# 🔥 Current Focus
-
-```text
-🚀 Telegram Bot Development
-
-🌐 Full Stack Projects
-
-🛡️ Cyber Security
-
-📚 Learning New Technologies
-
-☕ Coffee + Coding
-```
-
----
-
-# 📊 Weekly Coding
-
-```text
-JavaScript  ████████████████ 80%
-
-Node.js     ███████████████░ 75%
-
-Python      ████████████░░░░ 60%
-
-MongoDB     ██████████░░░░░░ 50%
-```
-
----
-
-# ⭐ Favorite Languages
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=js,nodejs,python,mongodb,mysql,linux,docker,git,github"/>
-
-</div>
-
----
-
-# 🚀 Motto
-
-<div align="center">
-
-## *"Dream. Code. Build. Repeat."*
-
-</div>
-
----
-
-<div align="center">
-
-### ⭐ Thanks for Visiting My Profile ⭐
-
-<img src="https://capsule-render.vercel.app/api?type=waving&height=180&section=footer&color=gradient"/>
+⭐ **Don't forget to follow and star my repositories!** ⭐
 
 </div>
