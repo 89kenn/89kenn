@@ -27,43 +27,39 @@
 ║   ╚═╝  ╚═╝   ╚═╝    ╚═════╝ ╚═╝  ╚═══╝╚══════╝         ║
 ║                                                           ║
 ╚═══════════════════════════════════════════════════════════╝
+---
 
-👤 Name: RYONZ
-💻 Role: Full Stack Developer & Cybersecurity Enthusiast
-📍 Location: Indonesia
-🌐 Languages: Indonesian, English
-⚡ Motto: "Hack the planet, build the future"
+**👤 Name:** RYONZ  
+**💻 Role:** Full Stack Developer & Cybersecurity Enthusiast  
+**📍 Location:** Indonesia  
+**🌐 Languages:** Indonesian, English  
+**⚡ Motto:** *"Hack the planet, build the future"*
 
 ---
 
-🔥 SKILLS & TOOLS
+### 🔥 SKILLS & TOOLS
 
-💻 Programming Languages
-
+#### 💻 Programming Languages
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,javascript,typescript,go,rust,ruby,c,cpp,java,php&perline=9&theme=dark" alt="Programming Languages"/>
+  <img src="https://skillicons.dev/icons?i=python,javascript,typescript,go,rust,ruby,c,cpp,java,php&perline=9&theme=dark" alt="Skills"/>
 </p>
 
-🛠️ Frameworks & Libraries
-
+#### 🛠️ Frameworks & Libraries
 <p align="center">
   <img src="https://skillicons.dev/icons?i=react,nodejs,django,flask,express,nextjs,electron,angular,vue,tailwind&perline=10&theme=dark" alt="Frameworks"/>
 </p>
 
-🗄️ Databases
-
+#### 🗄️ Databases
 <p align="center">
   <img src="https://skillicons.dev/icons?i=postgresql,mysql,mongodb,redis,elasticsearch,firebase,sqlite&perline=7&theme=dark" alt="Databases"/>
 </p>
 
-☁️ DevOps & Cloud
-
+#### ☁️ DevOps & Cloud
 <p align="center">
   <img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,gcp,azure,jenkins,githubactions,terraform,ansible&perline=9&theme=dark" alt="DevOps"/>
 </p>
 
-🐧 Hacker Arsenal
-
+#### 🐧 Hacker Arsenal
 <p align="center">
   <img src="https://skillicons.dev/icons?i=linux,kali,ubuntu,arch,debian,redhat&perline=6&theme=dark" alt="Linux"/>
 </p>
@@ -73,14 +69,13 @@
   <img src="https://img.shields.io/badge/Metasploit-000000?style=for-the-badge&logo=metasploit&logoColor=white" alt="Metasploit"/>
   <img src="https://img.shields.io/badge/Burp_Suite-000000?style=for-the-badge&logo=burpsuite&logoColor=white" alt="Burp Suite"/>
   <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" alt="Wireshark"/>
-  <img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white" alt="Kali Linux"/>
+  <img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white" alt="Kali"/>
   <img src="https://img.shields.io/badge/Termux-000000?style=for-the-badge&logo=terminal&logoColor=white" alt="Termux"/>
 </p>
 
 ---
 
-🎮 GAMING SKILLS
-
+### 🎮 GAMING SKILLS
 <p align="center">
   <img src="https://img.shields.io/badge/PUBG-FFB800?style=for-the-badge&logo=pubg&logoColor=white" alt="PUBG"/>
   <img src="https://img.shields.io/badge/Valorant-FA4454?style=for-the-badge&logo=valorant&logoColor=white" alt="Valorant"/>
@@ -92,8 +87,7 @@
 
 ---
 
-📊 GITHUB STATISTICS
-
+### 📊 GITHUB STATISTICS
 <p align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=RYONZ&show_icons=true&theme=radical&hide_border=true&bg_color=0a0a0a&title_color=00ff41&icon_color=00ff41&text_color=00ff41"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RYONZ&layout=compact&theme=radical&hide_border=true&bg_color=0a0a0a&title_color=00ff41&text_color=00ff41"/>
@@ -104,25 +98,23 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=RYONZ&bg_color=0a0a0a&color=00ff41&line=00ff41&point=00ff41&area=true&hide_border=true" alt="GitHub Activity Graph"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=RYONZ&bg_color=0a0a0a&color=00ff41&line=00ff41&point=00ff41&area=true&hide_border=true" alt="Activity Graph"/>
 </p>
 
 ---
 
-🐍 SNAKE ANIMATION (Kontribusi dimakan ular)
-
+### 🐍 SNAKE ANIMATION
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/RYONZ/RYONZ/output/github-snake-dark.svg">
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/RYONZ/RYONZ/output/github-snake.svg">
-    <img src="https://raw.githubusercontent.com/RYONZ/RYONZ/output/github-snake.svg" alt="Snake eating my contributions">
+    <img src="https://raw.githubusercontent.com/RYONZ/RYONZ/output/github-snake.svg" alt="Snake animation">
   </picture>
 </p>
 
 ---
 
-🌟 PROJECTS HIGHLIGHT
-
+### 🌟 PROJECTS HIGHLIGHT
 <p align="center">
   <a href="https://github.com/RYONZ/nova-terminal">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=RYONZ&repo=nova-terminal&theme=radical&bg_color=0a0a0a&title_color=00ff41&icon_color=00ff41&text_color=00ff41" alt="NOVA Terminal"/>
@@ -134,16 +126,14 @@
 
 ---
 
-🏆 ACHIEVEMENTS
-
+### 🏆 ACHIEVEMENTS
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=RYONZ&theme=darkhub&no-frame=true&row=2&column=4&margin-w=15&margin-h=15" alt="Trophies"/>
 </p>
 
 ---
 
-🌐 SOCIAL MEDIA
-
+### 🌐 SOCIAL MEDIA
 <p align="center">
   <a href="https://t.me/RYONZ"><img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/></a>
   <a href="https://github.com/RYONZ"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
@@ -155,8 +145,7 @@
 
 ---
 
-💀 SUPPORT ME
-
+### 💀 SUPPORT ME
 <p align="center">
   <a href="https://saweria.co/RYONZ"><img src="https://img.shields.io/badge/Donate-Saweria-FFB800?style=for-the-badge&logo=ko-fi&logoColor=white" alt="Donate"/></a>
   <a href="https://patreon.com/RYONZ"><img src="https://img.shields.io/badge/Patreon-FF424D?style=for-the-badge&logo=patreon&logoColor=white" alt="Patreon"/></a>
@@ -164,14 +153,9 @@
 
 ---
 
-📈 ACTIVITY
-
+### 📈 ACTIVITY
 <!--START_SECTION:waka-->
-
 ```text
 Python        ██████████░░░░░░░░░░   50.0%
 JavaScript    ██████░░░░░░░░░░░░░░   30.0%
 TypeScript    ████░░░░░░░░░░░░░░░░   20.0%
-```
-
-<!--END_SECTION:waka-->
