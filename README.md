@@ -146,14 +146,13 @@ class Ryo {
 
 ---
 
-# 🌐 TOP LANGUAGES
+# 🌐 Top Languages
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=89kenn&layout=compact&theme=tokyonight&hide_border=true"/>
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=89kenn&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"/>
 
 </div>
-
 ---
 
 # 🐍 CONTRIBUTION SNAKE
