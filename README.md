@@ -123,11 +123,9 @@ class Ryo {
 
 # 🏆 GITHUB ACHIEVEMENTS
 
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=89kenn&theme=tokyonight&no-frame=true&row=2&column=4"/>
-
-</div>
+<p align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=89kenn&theme=radical&no-frame=true&no-bg=true&row=1&column=6"/>
+</p>
 
 ---
 
