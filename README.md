@@ -1,6 +1,6 @@
 <div align="center">
 
-# ⚡ RYO
+# ⚡ ryonz
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:00F260,100:0575E6&text=RYO&fontSize=70&fontColor=ffffff&animation=twinkling&fontAlignY=40"/>
 
