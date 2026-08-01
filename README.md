@@ -1,6 +1,6 @@
 <div align="center">
 
-# ıllıllı ꧁༒ 𝖗𝖞𝖔𝖓𝖟 ༒CV15꧂ ıllıllı
+# ꧁༒ 𝖗𝖞𝖔𝖓𝖟 ༒CV15꧂
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:00F260,100:0575E6&text=𝖗𝖞𝖔𝖓𝖟&fontSize=70&fontColor=ffffff&animation=twinkling&fontAlignY=40"/>
 
