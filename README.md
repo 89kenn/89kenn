@@ -1,8 +1,8 @@
 <div align="center">
 
-# ⚡ ryonz
+# ıllıllı ꧁༒ 𝖗𝖞𝖔𝖓𝖟 ༒CV15꧂ ıllıllı
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:00F260,100:0575E6&text=RYO&fontSize=70&fontColor=ffffff&animation=twinkling&fontAlignY=40"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:00F260,100:0575E6&text=𝖗𝖞𝖔𝖓𝖟&fontSize=70&fontColor=ffffff&animation=twinkling&fontAlignY=40"/>
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=28&duration=2500&pause=1000&color=00FF99&center=true&vCenter=true&width=900&lines=SYSTEM+BOOTING...;ACCESS+GRANTED;WELCOME+BACK+RYO;FULL+STACK+DEVELOPER;NODE.JS+DEVELOPER;CYBER+SECURITY+ENTHUSIAST;OPEN+SOURCE+LOVER"/>
 
