@@ -16,10 +16,10 @@
 
 ```bash
 ┌───────────────────────────────────────────────┐
-│               RYO TERMINAL                    │
+│               𝖗𝖞𝖔𝖓𝖟 TERMINAL                    │
 ├───────────────────────────────────────────────┤
 │ USERNAME : 89kenn                            │
-│ NAME     : Ryo                               │
+│ NAME     : 𝖗𝖞𝖔𝖓𝖟                               │
 │ STATUS   : ONLINE 🟢                         │
 │ ROLE     : Full Stack Developer              │
 │ LOCATION : Indonesia 🇮🇩                     │
@@ -54,7 +54,7 @@ System Status........ ONLINE ✅
 # 🧠 ABOUT ME
 
 ```javascript
-class Ryo {
+class 𝖗𝖞𝖔𝖓𝖟 {
 
     constructor(){
 
